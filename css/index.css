@@ -6,28 +6,29 @@
 }
 header{
 	padding: 40px 100px 0 0; 
-	font-family: 'Myriad Web Pro';
 	font-size: 48px;
 	color: white;
 }
 .navbar{
 	float: right;
-	padding-right: 110px;
+	padding-top:90px;
 	padding-bottom: 100px;
 	padding-left: 100px;
 	
 }
 .navbarli{
 	display: inline-block;
+	font-family: 'Segoe UI Regular';
 	margin-right: 30px;
 }
 .navbarli a{
 	color: white;
 }
-
+.logoimg{
+	width:  170px;
+}
 .logo{
 	float: right;
-	width: 175px;
 	padding-top: 30px;
 	padding-left:60px;
 
